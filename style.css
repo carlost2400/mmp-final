@@ -1,0 +1,13 @@
+body{background-color: #FF5533;}
+h1{color: #8C570F;
+font-family: Futura;
+font-size:  40px;}
+p{color:#8C570F;
+font-family: Futura;
+font-size: 15px;}
+a{color: black;
+font-family: Futura;
+font-size: 18px;
+text-decoration: none;}
+a:hover{color: #8C570F;}
+ul{list-style-type: none;}
